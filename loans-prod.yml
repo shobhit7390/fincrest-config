@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to fincrest loans related prod APIs"
+  message: "Welcome to fincrest loans related docker APIs"
   contactDetails:
     name: "Nora Dubois - Product Owner"
     email: "nora@fincrest.com"
