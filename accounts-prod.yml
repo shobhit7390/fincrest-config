@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to fincrest accounts related prod APIs"
+  message: "Welcome to fincrest accounts related production APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}6095d5dc186ffcfe2ade2e6b4e16569ecc6525d3484354b96536920e7c739fd57d1e5b37fbe925090a29452a28b9cadb"
