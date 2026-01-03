@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to fincrest accounts related prod APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@fincrest.com"
+    email: "{cipher}6095d5dc186ffcfe2ade2e6b4e16569ecc6525d3484354b96536920e7c739fd57d1e5b37fbe925090a29452a28b9cadb"
   onCallSupport:
     - (777) 321-2309
     - (777) 486-0476
